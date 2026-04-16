@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Climate Trend Analyzer
 
 ## Project Overview
@@ -233,3 +234,7 @@ Contributions welcome! Please fork the repository and submit pull requests.
 - Inspired by real-world climate analysis projects
 - Uses open-source Python libraries
 - Data generation based on climate science principles
+=======
+# Climate-trend-analyzer
+"Climate Trend Analyzer is a data-driven solution that analyzes historical climate data to identify trends, detect anomalies, and forecast future patterns. Built using Python and Streamlit, it enables interactive visualization of temperature, rainfall, and CO₂ data, supporting data-informed decisions in environmental analytics and sustainability."
+>>>>>>> 5b6e4f242d657c63c803fc96d8b520b07e5883a3

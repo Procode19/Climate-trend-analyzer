@@ -218,7 +218,7 @@ By completing this project, you'll gain expertise in:
 
 ## Author
 
-[Your Name]
+[Om Navgire]
 Student/Data Science Enthusiast
 
 ## License
